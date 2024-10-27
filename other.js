@@ -98,3 +98,5 @@
 import{fetchData} from "./fetch.js";
 
 fetchData();
+
+console.log("1234")
